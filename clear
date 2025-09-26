@@ -1,0 +1,9 @@
+  Admindashboard       [m c30ba6e [[34morigin/Admindashboard[m] Cleaned up backend files to keep only admin dashboard module
+  Art-management       [m 22ecc8d [[34morigin/Art-management[m] Cleaned up backend files to keep only booking system module
+  Exhibition-management[m c41ea24 [[34morigin/Exhibition-management[m] Cleaned up backend files to keep only exhibition module
+* [32mOrder-management     [m fbb2cde [[34morigin/Order-management[m] Cleaned backend for order-management branch
+  Others               [m 10c7522 [[34morigin/Others[m] Initial commit with full integrated project
+  bidding-management   [m a60782e [[34morigin/bidding-management[m] Cleaned frontend for bidding-management branch
+  develop              [m 10c7522 [[34morigin/develop[m] Initial commit with full integrated project
+  main                 [m 10c7522 [[34morigin/main[m: behind 11] Initial commit with full integrated project
+  user-management      [m 7be3406 [[34morigin/user-management[m] Cleaned frontend for user-management branch
