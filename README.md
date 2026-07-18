@@ -137,17 +137,5 @@ From `backend/server.js`:
 - It is recommended to rotate any exposed DB credentials and use environment variables only.
 - Set proper CORS origins for production.
 
-## 📈 Future Improvements
-
-- Add API documentation (Swagger/OpenAPI)
-- Add unit and integration tests
-- Add Docker support for easier deployment
-- Setup CI workflow for lint/test/build checks
-
-## 🤝 Contributing
-
-Contributions are welcome. Feel free to fork the repo, create a feature branch, and open a pull request.
-
-## 📄 License
-
-No license has been defined yet. Consider adding a license file (e.g., MIT) for open-source usage.
+ 
+ 
